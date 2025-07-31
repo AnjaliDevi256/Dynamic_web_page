@@ -1,0 +1,31 @@
+body{
+text-align:center;
+padding: 20px;
+margin:20px;
+background-image:url("https://i.pinimg.com/736x/81/ce/03/81ce03900bcbbe0243ca0614560478a5.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+div{
+border: 2px solid white;
+margin-left:300px;
+margin-right:300px;
+margin-top:120px;
+padding:10px;
+width:350px;
+background:rgba(200,100,150,0.5);
+ box-shadow: 0 0 10px gray;
+  text-align: center;
+
+}
+
+input,button,p{
+border:0.5px solid white;
+border-radius:10px;
+margin:10px;
+padding:15px;
+color:black;
+}
