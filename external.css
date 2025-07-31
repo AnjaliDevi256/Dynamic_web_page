@@ -1,0 +1,21 @@
+body{
+text-align:center;
+padding: 20px;
+margin:20px;
+background-image:url("https://t3.ftcdn.net/jpg/15/63/57/62/360_F_1563576290_XjC6c5mkKKOglFk12NwRdTDwZuBmqr43.jpg");
+background-repeat:no-repeate;
+background-size:cover;
+}
+div{
+border: 2px solid white;
+margin:200px 500px;
+padding:15px;
+background:rgba(0,0,0,0.7);
+}
+input,button{
+border:0.5px solid white;
+border-radius:10px;
+margin:10px;
+padding:15px;
+color:black;
+}
